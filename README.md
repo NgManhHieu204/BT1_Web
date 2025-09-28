@@ -64,18 +64,45 @@ _____
 
    <img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/805f76b1-ebee-4e66-a904-d42273acada9" />
 
-    - Thêm Code vào Form1.cs
+    - Thêm Code vào Form1.cs và build
 
      <img width="766" height="879" alt="image" src="https://github.com/user-attachments/assets/9271ffa7-e286-4f72-832a-bf853867bcf7" />
  
-    - Thêm Code vào Form1.Designer.cs
+    - Thêm Code vào Form1.Designer.cs và build
   
      <img width="999" height="555" alt="image" src="https://github.com/user-attachments/assets/cb676120-baeb-4cc3-8e0b-57e03b882be6" />
 
-    - Thêm Code vào Program.cs
+    - Thêm Code vào Program.cs và build
       
     <img width="969" height="388" alt="image" src="https://github.com/user-attachments/assets/e8c21d18-8b5c-4285-acf6-b96195c2f78d" />
 
     - Kết quả khi chạy:
 
     <img width="998" height="789" alt="image" src="https://github.com/user-attachments/assets/87d92092-3903-4b7f-afd3-9108a159ac88" />
+
+4. Web đơn giản, sử dụng web server IIS
+
+- Tạo backend api.aspx: Tạo project loại asp.net web application (.net framework)
+
+<img width="1103" height="848" alt="image" src="https://github.com/user-attachments/assets/5f8bd0dc-40b7-4347-be11-0f22d3c1c33d" />
+
+- Add reference
+
+   - Tạo backend: Chuột phải vào WebApp -> Add -> New item
+ 
+    <img width="871" height="1072" alt="image" src="https://github.com/user-attachments/assets/e156a524-6b5b-4de1-9753-596be871547a" />
+
+   - Đặt tên là api.aspx --> sau khi tạo xong tiến hành thêm code ở api.aspx.cs --> build
+
+    <img width="1448" height="619" alt="image" src="https://github.com/user-attachments/assets/26218034-6291-4668-b4fa-1101fe525ae2" />
+
+   - Tạo file index.html: Chuột phải vào WebApp --> Add --> HTML Page
+ 
+    <img width="842" height="1071" alt="image" src="https://github.com/user-attachments/assets/65ff3826-ed9c-40f7-b585-f1dba292540b" />
+
+   - Thêm code và build:
+ 
+    <img width="623" height="355" alt="image" src="https://github.com/user-attachments/assets/e7b0cc20-c114-4fc1-905d-04d44c11973c" />
+
+5. TẠO DOMAIN + IIS
+
