@@ -106,3 +106,11 @@ _____
 
 5. TẠO DOMAIN + IIS
 
+Publish Web từ Visua studio
+
+<img width="433" height="921" alt="image" src="https://github.com/user-attachments/assets/72e4ce1e-e508-476d-a8fc-87c326ecac51" />
+
+Chọn Folder
+
+<img width="1004" height="703" alt="image" src="https://github.com/user-attachments/assets/f3916e25-3bbd-46e7-8964-c0802c9eb5d4" />
+
