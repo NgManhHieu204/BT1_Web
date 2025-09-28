@@ -106,7 +106,7 @@ _____
 
 5. TẠO DOMAIN + IIS
 
-Publish Web từ Visua studio
+- Publish Web từ Visua studio
 
 <img width="433" height="921" alt="image" src="https://github.com/user-attachments/assets/72e4ce1e-e508-476d-a8fc-87c326ecac51" />
 
@@ -114,3 +114,20 @@ Chọn Folder
 
 <img width="1004" height="703" alt="image" src="https://github.com/user-attachments/assets/f3916e25-3bbd-46e7-8964-c0802c9eb5d4" />
 
+Tạo 1 folder bên ngoài và trỏ đến nó trong visual -> sau đó tiến hành publish
+
+<img width="1148" height="345" alt="image" src="https://github.com/user-attachments/assets/3c34d002-b7e1-4625-9ec0-8e57464d19a0" />
+
+- Cấu hình IIS, Domain, Localhost
+
+Cài đặt IIS: Vào Control Painel -> Programs -> Turn Windows features on or off -> Tích chọn Internet Information Services (IIS) và cài đặt
+
+<img width="1421" height="755" alt="image" src="https://github.com/user-attachments/assets/8a5cddef-7aef-4f6f-ae88-1d7d72af055a" />
+
+Tạo Website trên IIS: Mở IIS Manager (inetmgr) -> Chuột phải vào Sites -> chọn Add Website...
+
+<img width="1421" height="755" alt="image" src="https://github.com/user-attachments/assets/65519aa5-4d50-4714-b466-a15b965cb240" />
+
+Điền thông tin ở cửa sổ add website
+
+<img width="718" height="825" alt="image" src="https://github.com/user-attachments/assets/1327cbaa-4b07-49b0-b898-0098b80b0c57" />
