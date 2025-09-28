@@ -1,0 +1,10 @@
+D:\PhatTrienWEB\HieuCaroEngine\WebApp\bin\WebApp.dll.config
+D:\PhatTrienWEB\HieuCaroEngine\WebApp\bin\WebApp.dll
+D:\PhatTrienWEB\HieuCaroEngine\WebApp\bin\WebApp.pdb
+D:\PhatTrienWEB\HieuCaroEngine\WebApp\bin\HieuCaroEngine.dll
+D:\PhatTrienWEB\HieuCaroEngine\WebApp\bin\HieuCaroEngine.pdb
+D:\PhatTrienWEB\HieuCaroEngine\WebApp\obj\Release\WebApp.csproj.AssemblyReference.cache
+D:\PhatTrienWEB\HieuCaroEngine\WebApp\obj\Release\WebApp.csproj.CoreCompileInputs.cache
+D:\PhatTrienWEB\HieuCaroEngine\WebApp\obj\Release\WebApp.csproj.Up2Date
+D:\PhatTrienWEB\HieuCaroEngine\WebApp\obj\Release\WebApp.dll
+D:\PhatTrienWEB\HieuCaroEngine\WebApp\obj\Release\WebApp.pdb

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\web</_PublishTargetUrl>
+    <History>True|2025-09-28T17:02:09.9573404Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/HieuCaroEngine.dll">
+      <publishTime>09/28/2025 23:48:27</publishTime>
+    </File>
+    <File Include="bin/HieuCaroEngine.pdb">
+      <publishTime>09/28/2025 23:48:27</publishTime>
+    </File>
+    <File Include="bin/WebApp.dll">
+      <publishTime>09/29/2025 00:02:09</publishTime>
+    </File>
+    <File Include="bin/WebApp.pdb">
+      <publishTime>09/29/2025 00:02:09</publishTime>
+    </File>
+    <File Include="HtmlPage1.html">
+      <publishTime>09/28/2025 23:48:26</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/29/2025 00:02:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

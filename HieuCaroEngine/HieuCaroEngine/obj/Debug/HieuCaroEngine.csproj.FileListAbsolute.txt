@@ -1,0 +1,6 @@
+D:\PhatTrienWEB\HieuCaroEngine\HieuCaroEngine\bin\Debug\HieuCaroEngine.dll
+D:\PhatTrienWEB\HieuCaroEngine\HieuCaroEngine\bin\Debug\HieuCaroEngine.pdb
+D:\PhatTrienWEB\HieuCaroEngine\HieuCaroEngine\obj\Debug\HieuCaroEngine.csproj.AssemblyReference.cache
+D:\PhatTrienWEB\HieuCaroEngine\HieuCaroEngine\obj\Debug\HieuCaroEngine.csproj.CoreCompileInputs.cache
+D:\PhatTrienWEB\HieuCaroEngine\HieuCaroEngine\obj\Debug\HieuCaroEngine.dll
+D:\PhatTrienWEB\HieuCaroEngine\HieuCaroEngine\obj\Debug\HieuCaroEngine.pdb

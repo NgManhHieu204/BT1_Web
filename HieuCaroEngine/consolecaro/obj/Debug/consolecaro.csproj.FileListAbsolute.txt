@@ -1,0 +1,9 @@
+D:\PhatTrienWEB\HieuCaroEngine\consolecaro\bin\Debug\consolecaro.exe
+D:\PhatTrienWEB\HieuCaroEngine\consolecaro\bin\Debug\consolecaro.pdb
+D:\PhatTrienWEB\HieuCaroEngine\consolecaro\bin\Debug\HieuCaroEngine.dll
+D:\PhatTrienWEB\HieuCaroEngine\consolecaro\bin\Debug\HieuCaroEngine.pdb
+D:\PhatTrienWEB\HieuCaroEngine\consolecaro\obj\Debug\consolecaro.csproj.AssemblyReference.cache
+D:\PhatTrienWEB\HieuCaroEngine\consolecaro\obj\Debug\consolecaro.csproj.CoreCompileInputs.cache
+D:\PhatTrienWEB\HieuCaroEngine\consolecaro\obj\Debug\consolec.B5DFBF63.Up2Date
+D:\PhatTrienWEB\HieuCaroEngine\consolecaro\obj\Debug\consolecaro.exe
+D:\PhatTrienWEB\HieuCaroEngine\consolecaro\obj\Debug\consolecaro.pdb

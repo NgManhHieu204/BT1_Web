@@ -1,0 +1,11 @@
+D:\PhatTrienWEB\HieuCaroEngine\windowsformcaro\obj\Debug\windowsformcaro.csproj.AssemblyReference.cache
+D:\PhatTrienWEB\HieuCaroEngine\windowsformcaro\obj\Debug\windowsformcaro.Properties.Resources.resources
+D:\PhatTrienWEB\HieuCaroEngine\windowsformcaro\obj\Debug\windowsformcaro.csproj.GenerateResource.cache
+D:\PhatTrienWEB\HieuCaroEngine\windowsformcaro\obj\Debug\windowsformcaro.csproj.CoreCompileInputs.cache
+D:\PhatTrienWEB\HieuCaroEngine\windowsformcaro\bin\Debug\windowsformcaro.exe
+D:\PhatTrienWEB\HieuCaroEngine\windowsformcaro\bin\Debug\windowsformcaro.pdb
+D:\PhatTrienWEB\HieuCaroEngine\windowsformcaro\bin\Debug\HieuCaroEngine.dll
+D:\PhatTrienWEB\HieuCaroEngine\windowsformcaro\bin\Debug\HieuCaroEngine.pdb
+D:\PhatTrienWEB\HieuCaroEngine\windowsformcaro\obj\Debug\windowsf.8E08BBBC.Up2Date
+D:\PhatTrienWEB\HieuCaroEngine\windowsformcaro\obj\Debug\windowsformcaro.exe
+D:\PhatTrienWEB\HieuCaroEngine\windowsformcaro\obj\Debug\windowsformcaro.pdb
